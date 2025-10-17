@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "prova-questão-7/1.0.0": {
+        "runtime": {
+          "prova-questão-7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prova-questão-7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

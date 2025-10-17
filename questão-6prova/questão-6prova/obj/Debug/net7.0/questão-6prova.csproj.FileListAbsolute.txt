@@ -1,0 +1,15 @@
+C:\Users\Senai.CEPEAS21103946\Desktop\visual studio-felipe\questão-6prova\questão-6prova\obj\Debug\net7.0\questão-6prova.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\visual studio-felipe\questão-6prova\questão-6prova\obj\Debug\net7.0\questão-6prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21103946\Desktop\visual studio-felipe\questão-6prova\questão-6prova\obj\Debug\net7.0\questão-6prova.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\visual studio-felipe\questão-6prova\questão-6prova\obj\Debug\net7.0\questão-6prova.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21103946\Desktop\visual studio-felipe\questão-6prova\questão-6prova\obj\Debug\net7.0\questão-6prova.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\visual studio-felipe\questão-6prova\questão-6prova\bin\Debug\net7.0\questão-6prova.exe
+C:\Users\Senai.CEPEAS21103946\Desktop\visual studio-felipe\questão-6prova\questão-6prova\bin\Debug\net7.0\questão-6prova.deps.json
+C:\Users\Senai.CEPEAS21103946\Desktop\visual studio-felipe\questão-6prova\questão-6prova\bin\Debug\net7.0\questão-6prova.runtimeconfig.json
+C:\Users\Senai.CEPEAS21103946\Desktop\visual studio-felipe\questão-6prova\questão-6prova\bin\Debug\net7.0\questão-6prova.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\visual studio-felipe\questão-6prova\questão-6prova\bin\Debug\net7.0\questão-6prova.pdb
+C:\Users\Senai.CEPEAS21103946\Desktop\visual studio-felipe\questão-6prova\questão-6prova\obj\Debug\net7.0\questão-6prova.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\visual studio-felipe\questão-6prova\questão-6prova\obj\Debug\net7.0\refint\questão-6prova.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\visual studio-felipe\questão-6prova\questão-6prova\obj\Debug\net7.0\questão-6prova.pdb
+C:\Users\Senai.CEPEAS21103946\Desktop\visual studio-felipe\questão-6prova\questão-6prova\obj\Debug\net7.0\questão-6prova.genruntimeconfig.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\visual studio-felipe\questão-6prova\questão-6prova\obj\Debug\net7.0\ref\questão-6prova.dll
